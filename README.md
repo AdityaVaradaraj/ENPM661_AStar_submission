@@ -1,7 +1,10 @@
 # ENPM661_AStar_submission
 A Star Algorithm
+
 Group Members:
+
 117054859 Aditya Varadaraj
+
 118133959 Saurabh Palande
 
 Requirements:
