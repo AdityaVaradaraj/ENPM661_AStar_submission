@@ -1,4 +1,4 @@
-# ENPM661_AStar_submission
+# ENPM661_AStar_Phase_1
 A Star Algorithm
 
 Group Members:
