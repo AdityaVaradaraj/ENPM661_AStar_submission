@@ -18,7 +18,7 @@ Requirements:
 
 Instructions:
 
-1) Unzip the zip file into a folder.
+1) Download the files into a folder.
 
 2) Run the python file by "python3 Aditya_Varadaraj.py"
 
