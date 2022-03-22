@@ -39,3 +39,4 @@ Instructions:
 
 8) Program might finish running in 1-3 mins for a step size of 5. For smaller step sizes like 1, it might take a long time.
 
+![](https://github.com/AdityaVaradaraj/ENPM661_AStar_submission/blob/main/Project_3_Phase_1/Astar_visualisation.mp4)
