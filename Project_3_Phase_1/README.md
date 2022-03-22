@@ -38,5 +38,3 @@ Instructions:
 7) You should also have "Final_output.png" that shows only the path in the space and "Obstacle_space.png" that shows the obstacle space with the padding (clearance+radius).
 
 8) Program might finish running in 1-3 mins for a step size of 5. For smaller step sizes like 1, it might take a long time.
-
-![](https://github.com/AdityaVaradaraj/ENPM661_AStar_submission/blob/main/Project_3_Phase_1/Astar_visualisation.mp4)
